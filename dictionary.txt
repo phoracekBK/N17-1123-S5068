@@ -1,0 +1,8 @@
+thermobounding - stroj pro tepelné lepení látky
+sonotroda - últrazvukový svařovací systém
+static clamp - úchytný systém pro plastové pásky statický - levý a pravý
+moving clamp - úchytný systém pro plastové pásky pohyblivý - levý a pravý
+stopper - zarážkový mechanismus bránící mechanicky v přístupu na danou pozici, stopper_1 a stopper_2 jsou zdvojené na pravé a levé straně
+side clamp - úchytný systém pro látku - levý a pravý jsou zdvojené pro napnutí látky na šířku
+central clamp - úchytný systém pro látku uprostřed pro napnutí v podélné ose
+

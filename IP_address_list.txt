@@ -1,0 +1,10 @@
+192.168.0.1 - PLC_1 (main PLC)
+192.168.0.2 - HMI_1 (main HMI - KTP700)
+192.168.0.3 - LXM drive 1
+192.168.0.4 - LXM drive 2
+192.168.0.5 - LXM drive 3
+192.168.0.6 - ET200 IO
+
+192.168.0.100 - Programming laptop
+
+password for LEX32_lib (SeMotion)
